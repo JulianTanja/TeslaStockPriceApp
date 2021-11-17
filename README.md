@@ -5,7 +5,7 @@ It imports data from the yfinance Python library to display the closing price an
 
 To view the project, install Streamlit by using the following commands (if you're a Macbook user): 
 
-pip install streamlit
+pip install streamlit \n
 streamlit hello
 
 Afterwards, copy my code from the main1.py file to your IDE. 
