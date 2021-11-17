@@ -13,10 +13,12 @@ To view the project on your browser, head to the Terminal and cd into the file's
 
 streamlit run main1.py 
 
-Your browser should automatically show you the web application. If nothing happens, usually Streamlit will display a link similar to the command below that you could click on to view the project on the browser. 
+Your browser should automatically show you the web application. If nothing happens, usually Streamlit will display a link similar to the command below 
 
 
  You can now view your Streamlit app in your browser.
 
   Local URL: http://localhost:8501                                                                           
-  Network URL: http://10.0.0.241:8501
+  Network URL: http://10.0.0.241:8501                                                                                                                 
+  
+  that you could click on to view the project on the browser. 
