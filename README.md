@@ -13,7 +13,7 @@ To view the project on your browser, head to the Terminal and cd into the file's
 
 streamlit run main1.py 
 
-Your browser should automatically show you the web application. If nothing happens, usually Streamlit will display a link similar to the command below 
+Your browser should automatically show you the web application. If nothing happens, usually Streamlit will display a link similar to the command below:
 
 
  You can now view your Streamlit app in your browser.
